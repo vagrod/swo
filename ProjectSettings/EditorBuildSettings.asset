@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Loader.unity
+    guid: 8274d65fac3bdb197bcb9047102dcb6d
+  - enabled: 1
+    path: Assets/Scenes/default/Welcome.default.unity
+    guid: b600a724ed52c0fd988c20efc87566b3
+  - enabled: 1
+    path: Assets/Scenes/default/MultiplayerWelcome.default.unity
+    guid: caf089635e6ce1840b6c835069e04cd9
+  - enabled: 1
+    path: Assets/Scenes/default/JoinPublicRoom.default.unity
+    guid: b4c72e175ebfe6542909b17ba2b8b9f5
+  - enabled: 1
+    path: Assets/Scenes/default/JoinPrivateRoom.default.unity
+    guid: 9516abcc7e59b6b41b6a2762e2c9f237
+  - enabled: 1
+    path: Assets/Scenes/default/About.default.unity
+    guid: 167dfef73f322324e91a145ac1abb7ad
+  - enabled: 1
+    path: Assets/Scenes/default/Rules.default.unity
+    guid: 6e1dfb61279d9e24e9078ee1d56615d7
+  - enabled: 1
+    path: Assets/Scenes/default/Room.default.unity
+    guid: a17551b71d218474398bd85dc7c36656
+  - enabled: 1
+    path: Assets/Scenes/default/Settings.default.unity
+    guid: df1d2ec353b919949a0ad283038c9ba6
+  - enabled: 1
+    path: Assets/Scenes/default/Battlefield.default.unity
+    guid: 9593f4c275374e0009d9651e2ef9588c
+  - enabled: 1
+    path: Assets/Scenes/default/Arrangement.default.unity
+    guid: 7be50a370356414d4b57a739828983a2
+  - enabled: 1
+    path: Assets/Scenes/dark/About.dark.unity
+    guid: 57664b488f7187eacb44487ed9169829
+  - enabled: 1
+    path: Assets/Scenes/dark/MultiplayerWelcome.dark.unity
+    guid: 71260446aab1ed743aeb4af812f55227
+  - enabled: 1
+    path: Assets/Scenes/dark/JoinPublicRoom.dark.unity
+    guid: 3b8561242379cbb45b06975a0ca12c80
+  - enabled: 1
+    path: Assets/Scenes/dark/JoinPrivateRoom.dark.unity
+    guid: b1bb2f9f424c15d49afc7d875603a54b
+  - enabled: 1
+    path: Assets/Scenes/dark/Arrangement.dark.unity
+    guid: 77a3925bdfc308bd59620ee1dd92cb7c
+  - enabled: 1
+    path: Assets/Scenes/dark/Battlefield.dark.unity
+    guid: fd94abb318df701eabfb8cefff39c18d
+  - enabled: 1
+    path: Assets/Scenes/dark/Rules.dark.unity
+    guid: 29dc10136c5d43fe5b69eb4567471086
+  - enabled: 1
+    path: Assets/Scenes/dark/Room.dark.unity
+    guid: 82674fdab302ac6438c2db19282e4145
+  - enabled: 1
+    path: Assets/Scenes/dark/Settings.dark.unity
+    guid: 9b94357507c308e1bac0d2ebc9d7cedd
+  - enabled: 1
+    path: Assets/Scenes/dark/Welcome.dark.unity
+    guid: 919ff3012d4234f058b3fd9dfbdb1676
+  - enabled: 1
+    path: Assets/Scenes/default.tablet/About.default.tablet.unity
+    guid: bd15993401f7ac4479c312cf1534d420
+  - enabled: 1
+    path: Assets/Scenes/default.tablet/Arrangement.default.tablet.unity
+    guid: acdef72688656ce409de231e1ce5971c
+  - enabled: 1
+    path: Assets/Scenes/default.tablet/Battlefield.default.tablet.unity
+    guid: 7a1f80fb75235bd47bdc82d6d9597f38
+  - enabled: 1
+    path: Assets/Scenes/default.tablet/JoinPrivateRoom.default.tablet.unity
+    guid: 08afec6b3ed94484f9f9cf39919b68a1
+  - enabled: 1
+    path: Assets/Scenes/default.tablet/JoinPublicRoom.default.tablet.unity
+    guid: bf898fb205e31c743a19228c9c64dd4b
+  - enabled: 1
+    path: Assets/Scenes/default.tablet/MultiplayerWelcome.default.tablet.unity
+    guid: f0d3cea56c0c02648af87bde2fdf8bb9
+  - enabled: 1
+    path: Assets/Scenes/default.tablet/Room.default.tablet.unity
+    guid: 6eb99341ea9090a4690a9fc22b3f43d7
+  - enabled: 1
+    path: Assets/Scenes/default.tablet/Rules.default.tablet.unity
+    guid: fead94a2aab70d04e9427874de21e028
+  - enabled: 1
+    path: Assets/Scenes/default.tablet/Settings.default.tablet.unity
+    guid: bf6af0ee64eebd34284a6832fc603605
+  - enabled: 1
+    path: Assets/Scenes/default.tablet/Welcome.default.tablet.unity
+    guid: 785941880f8e9f647b2167ee60dea592
+  - enabled: 1
+    path: Assets/Scenes/dark.tablet/About.dark.tablet.unity
+    guid: 17bd929a873c1a9429de039aae9538a2
+  - enabled: 1
+    path: Assets/Scenes/dark.tablet/Arrangement.dark.tablet.unity
+    guid: fe70888c9cf11af4792d7ebf1306d9db
+  - enabled: 1
+    path: Assets/Scenes/dark.tablet/Battlefield.dark.tablet.unity
+    guid: 80c36a3c300076f44a299f1539d6618e
+  - enabled: 1
+    path: Assets/Scenes/dark.tablet/JoinPrivateRoom.dark.tablet.unity
+    guid: 6d6498dd557fcad4d9d55b29f88db0ba
+  - enabled: 1
+    path: Assets/Scenes/dark.tablet/JoinPublicRoom.dark.tablet.unity
+    guid: 533c7c970bb89624e8f12b78ee7cd79e
+  - enabled: 1
+    path: Assets/Scenes/dark.tablet/MultiplayerWelcome.dark.tablet.unity
+    guid: a35217773723ec04cbb8bba85c8ba448
+  - enabled: 1
+    path: Assets/Scenes/dark.tablet/Room.dark.tablet.unity
+    guid: 32d88d8174e0eb04184b60078c49183d
+  - enabled: 1
+    path: Assets/Scenes/dark.tablet/Rules.dark.tablet.unity
+    guid: 24e20d62c4c288c4eba733eb771aaaec
+  - enabled: 1
+    path: Assets/Scenes/dark.tablet/Settings.dark.tablet.unity
+    guid: a1a6d711ec17e0748a7f28f634bb662d
+  - enabled: 1
+    path: Assets/Scenes/dark.tablet/Welcome.dark.tablet.unity
+    guid: 2eb8ff6daed6067428c9ab7258782b9d
+  m_configObjects: {}

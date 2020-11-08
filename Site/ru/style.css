@@ -1,0 +1,189 @@
+/*-----------------------------------------------------------------------------------
+Template Name: AppLux HTML5 Template,
+Description: This is html5 template
+Version: 1.0
+-----------------------------------------------------------------------------------
+-------------------
+****CSS Indexing****
+---------------------
+
+1. Header-Area
+2. Service-Area
+3. About-Area
+4. Feature-Area
+5. Team-Area
+6. Carousel-Navigation
+7. Price-area
+8. Subscribe-Form-Area
+9. Footer-area
+
+-----------------------------------------------------------------------------------*/
+/*--------------------
+1. Header-Area
+---------------------*/
+
+.header-area {
+    width: 100%;
+    padding: 150px 0;
+    display: block;
+    background-image: linear-gradient(-20deg, #88D3CE 0%, #6E45E2 80%);
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+}
+
+.header-area:before {
+    content: '';
+    position: absolute;
+    right: -20vw;
+    top: -50vh;
+    width: 50vw;
+    height: 50vw;
+    background: #7156E1;
+    z-index: -3;
+    -webkit-transform: rotate(120deg);
+    transform: rotate(120deg);
+    border-radius: 50px;
+    -webkit-box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.3);
+}
+
+.header-area .bttn-1 {
+    margin-right: 15px;
+}
+
+.single-image-slide .slick-dots {
+    bottom: -10px;
+}
+
+/*--------------------
+2. Service-Area
+---------------------*/
+.service-area {
+    background: url('images/dots.png') no-repeat fixed center right 100px / auto;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    position: relative;
+    z-index: 1;
+}
+
+.service-area:before {
+    content: "";
+    background-color: #ffffff;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0.8;
+}
+
+/*--------------------
+3. About-Area
+---------------------*/
+.about-area {
+    background: #F9FAFC url('images/bg-point.png') no-repeat fixed left -400px center/ auto;
+}
+
+.about-area .zoom-image {
+    -webkit-transform-origin: right center;
+    transform-origin: right center;
+}
+
+.about-area .single-image {
+    margin-top: -60px;
+    margin-bottom: -60px;
+}
+
+/*-----------------------
+4. Feature-Area
+------------------------*/
+
+.feature-area {
+    background-image: linear-gradient(-20deg, #88D3CE 0%, #6E45E2 90%);
+    margin-bottom: 100px;
+}
+
+.big-screen-slider {
+    margin-bottom: -140px;
+}
+
+/*--------------------
+6. Carousel-Navigation
+---------------------*/
+.owl-carousel .owl-controls .owl-nav > div {
+    display: inline-block;
+    position: absolute;
+    left: -20px;
+    top: calc(50% - 20px);
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 100px;
+    color: #ffffff;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+    font-size: 20px;
+    text-shadow: 0 0 15px rgba(0, 0, 0, 0.8);
+}
+
+.owl-carousel .owl-controls .owl-nav > div.owl-next {
+    left: auto;
+    right: -20px;
+}
+
+.owl-carousel .owl-controls .owl-nav > div:hover {
+    background-color: #7156E1;
+}
+
+/*---------------------
+7. Price-area
+----------------------*/
+.price-area {
+    background: url('images/dots.png') no-repeat scroll right 150px bottom / auto;
+}
+
+/*---------------------
+8. Subscribe-Form-Area
+-----------------------*/
+.subscribe-area {
+    background: url('images/map.png') repeat scroll center center, linear-gradient(-20deg, #88D3CE 0%, #6E45E2 80%);
+    position: relative;
+}
+
+.subscribe-area .title-box .title,
+.subscribe-area .title-box .top-title {
+    color: #ffffff;
+}
+
+.subscribe-area .title-box .top-title:before,
+.subscribe-area .title-box .top-title:after {
+    background-color: #ffffff;
+}
+
+/*-----------------------
+9. Footer-area
+------------------------*/
+
+.footer-top {
+    border-bottom: 1px solid #ededed;
+    padding-top: 100px;
+    padding-bottom: 40px;
+}
+
+.footer-top .widget {
+    margin-bottom: 60px;
+}
+
+.footer-bottom {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.footer-logo {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}

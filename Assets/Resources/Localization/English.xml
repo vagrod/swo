@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization language="English">
+  <Common>
+    <String name="App Name" value="Sea Wars" />
+
+    <String name="English" value="English" />
+    <String name="Russian" value="Russian" />
+  </Common>
+  <Welcome>
+    <String name="New Single Player" value="New Single Player" />
+    <String name="Multiplayer" value="Multiplayer" />
+    <String name="Quit Message" value="Tap one more time to quit" />
+  </Welcome>
+  <MultiplayerWelcome>
+    <String name="Title" value="Network Game" />
+    <String name="Back" value="Back" />
+    <String name="Create Public Room" value="Public Room" />
+    <String name="Create Private Room" value="Private Room" />
+    <String name="Join Public Room" value="Public Room" />
+    <String name="Join Private Room" value="Private Room" />
+    <String name="Connecting" value="Connecting to server" />
+    <String name="New Game" value="New Game" />
+    <String name="Join Game" value="Join Existing" />
+  </MultiplayerWelcome>
+  <JoinPublicRoom>
+    <String name="Title" value="Public Room" />
+    <String name="Join" value="Join" />
+  </JoinPublicRoom>
+ <JoinPrivateRoom>
+    <String name="Title" value="Private Room" />
+    <String name="Join" value="Join" />
+    <String name="Enter Room ID" value="Enter room Id here" />
+    <String name="Room Does Not Exist" value="Cannot find room %s" />
+  </JoinPrivateRoom>
+  <Room>
+    <String name="Title" value="Game Room" />
+    <String name="Room ID Is" value="Room Id is" />
+    <String name="Copy To Clipboard" value="Copy to clipboard" />
+    <String name="Wait Message" value="Game will start automatically as soon as opponent enters the room" />
+    <String name="Back" value="Exit the room" />
+    <String name="ID Copied" value="Room Id was copied to the clipboard" />
+    <String name="Private Room Hint" value="This room is private. You need to tell your opponent room Id for him to join." />
+  </Room>
+  <Networking>
+    <String name="Opponent Left The Room" value="Opponent left the room" />
+    <String name="Join Room Failed" value="Failed to join game room" />
+    <String name="Create Room Failed" value="Failed to create game room" />
+    <String name="Room Is Full" value="Someone already joined this room" />
+    <String name="Room Does Not Exist" value="Room you trying to join no longer exist" />
+    <String name="Max Online Players Reached" value="Server is full. Try again later" />
+    <String name="Network Error" value="Cannot connect to the internet right now" />
+    <String name="Multiplayer Game Cannot Continue" value="Internet connection was lost. Network game connot continue." />
+  </Networking>
+  <MessageBox>
+    <String name="OK" value="OK" />
+    <String name="Cancel" value="Cancel" />
+    <String name="Retry" value="Retry" />
+  </MessageBox>
+  <Rules>
+    <String name="Title" value="Rules" />
+    <String name="Next" value="Next" />
+    <String name="Field Size" value="Field Size" />
+    <String name="Shape" value="Shape" />
+    <String name="Shape-Straight" value="Straight" />
+    <String name="Shape-Any" value="Any Shape" />
+    <String name="Density" value="Density" />
+    <String name="Density-Single" value="SRSLY??" />
+    <String name="Density-Low" value="Low" />
+    <String name="Density-Medium" value="Medium" />
+    <String name="Density-High" value="High" />
+    <String name="Allow Mines" value="Allow Mines" />
+    <String name="Allow SpyGlass" value="Allow SpyGlass" />
+    <String name="Extra Turn" value="Extra turn after successful hit" />
+  </Rules>
+  <Arrangement>
+  	<String name="Title" value="Arrangement" />
+  	<String name="Next Ship" value="Next" />
+  	<String name="Auto Arrange" value="Auto Arrange" />
+  	<String name="Back" value="Back" />
+  	<String name="Start Game" value="Start Game" />
+  </Arrangement>
+  <Battlefield>
+  	<String name="My Field" value="My Field" />
+  	<String name="Opponent Field" value="Opponent" />
+  	<String name="To Opponent" value="Opponent" />
+  	<String name="To My Field" value="My Field" />
+  	<String name="Exit" value="Exit Battle" />
+  	<String name="SpyGlass Hint" value="Tap opponent cell to scan" />
+  	<String name="Use SpyGlass" value="Use SpyGlass" />
+  	<String name="Your Turn" value="Your turn" />
+  	<String name="Opponent Turn" value="Waiting for opponent's turn" />
+    <String name="Ships Destroyed" value="Ships destroyed: %m of %n" />
+    <String name="Exit Battle Prompt" value="Are you sure you want to exit battle?" />
+  </Battlefield>
+  <GameOver>
+  	<String name="You Win" value="You Win!" />
+  	<String name="Opponent Wins" value="Opponent Wins." />
+  	<String name="Play Again" value="Play Again" />
+  	<String name="Exit" value="Exit" />
+  </GameOver>
+  <Settings>
+  	<String name="Title" value="Settings" />
+  	<String name="Back" value="Back" />
+  	<String name="Language" value="Language" />
+  	<String name="Skin" value="Skin" />
+  	<String name="Cell Animation" value="Cell Animation" />
+    <String name="Orientation" value="Orientation" />
+  	<String name="Auto Scroll" value="Auto Scroll after each turn" />
+    <String name="Paper Effect" value="Paper Effect" />
+  </Settings>
+  <PaperEffects>
+    <String name="NoEffect" value="No effect" />
+    <String name="FullEffect" value="Everywhere" />
+    <String name="PartialEffect" value="Partial" />
+  </PaperEffects>
+  <About>
+    <String name="Title" value="About" />
+    <String name="Back" value="Back" />
+    <String name="Author" value="Author (design and programming)" />
+    <String name="Name" value="Vadim Gromov" />
+    <String name="Version" value="Version" />
+    <String name="Made With Unity" value="Made With Unity" />
+    <String name="And Krita" value="and Krita" />
+  </About>
+  <Skins>
+  	<String name="default" value="Default (Light)" />
+    <String name="dark" value="Default (Dark)" />
+  </Skins>
+  <Animations>
+  	<String name="None" value="None" />
+  	<String name="Flip" value="Flip" />
+  	<String name="Wave" value="Wave" />
+  </Animations>
+  <Orientations>
+    <String name="Portrait" value="Portrait" />
+    <String name="Landscape" value="Landscape" />
+  </Orientations>
+  <Field>
+  	<String name="0" value="A" />
+  	<String name="1" value="B" />
+  	<String name="2" value="C" />
+  	<String name="3" value="D" />
+  	<String name="4" value="E" />
+  	<String name="5" value="F" />
+  	<String name="6" value="G" />
+  	<String name="7" value="H" />
+  	<String name="8" value="I" />
+  	<String name="9" value="J" />
+  	<String name="10" value="K" />
+  	<String name="11" value="L" />
+  	<String name="12" value="M" />
+  	<String name="13" value="N" />
+  	<String name="14" value="O" />
+  </Field>
+</Localization>

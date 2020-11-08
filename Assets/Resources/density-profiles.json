@@ -1,0 +1,398 @@
+{
+	"profiles": 
+	[
+
+		{
+			"name": "profile-1",
+			"description": "7x7 Medium",
+			"fieldSize": 7,
+			"countSmall": 3,
+			"countMedium": 2,
+			"countLarge": 2,
+			"countVeryLarge": 0,
+			"countMines": 3
+		},
+		{
+			"name": "profile-2",
+			"description": "7x7 Low",
+			"fieldSize": 7,
+			"countSmall": 3,
+			"countMedium": 1,
+			"countLarge": 0,
+			"countVeryLarge": 0,
+			"countMines": 2
+		},
+		{
+			"name": "profile-0",
+			"description": "7x7 High",
+			"fieldSize": 7,
+			"countSmall": 4,
+			"countMedium": 3,
+			"countLarge": 2,
+			"countVeryLarge": 0,
+			"countMines": 5
+		},
+		{
+			"name": "profile-3",
+			"description": "7x7 WTF??",
+			"fieldSize": 7,
+			"countSmall": 1,
+			"countMedium": 0,
+			"countLarge": 0,
+			"countVeryLarge": 0,
+			"countMines": 7
+		},
+
+
+
+
+		{
+			"name": "profile-1",
+			"description": "8x8 Medium",
+			"fieldSize": 8,
+			"countSmall": 3,
+			"countMedium": 2,
+			"countLarge": 2,
+			"countVeryLarge": 1,
+			"countMines": 3
+		},
+		{
+			"name": "profile-2",
+			"description": "8x8 Low",
+			"fieldSize": 8,
+			"countSmall": 2,
+			"countMedium": 1,
+			"countLarge": 0,
+			"countVeryLarge": 0,
+			"countMines": 2
+		},
+		{
+			"name": "profile-0",
+			"description": "8x8 High",
+			"fieldSize": 8,
+			"countSmall": 4,
+			"countMedium": 3,
+			"countLarge": 3,
+			"countVeryLarge": 1,
+			"countMines": 6
+		},
+		{
+			"name": "profile-3",
+			"description": "8x8 WTF??",
+			"fieldSize": 8,
+			"countSmall": 1,
+			"countMedium": 0,
+			"countLarge": 0,
+			"countVeryLarge": 0,
+			"countMines": 10
+		},
+
+
+
+
+		{
+			"name": "profile-1",
+			"description": "9x9 Medium",
+			"fieldSize": 9,
+			"countSmall": 3,
+			"countMedium": 3,
+			"countLarge": 2,
+			"countVeryLarge": 1,
+			"countMines": 4
+		},
+		{
+			"name": "profile-2",
+			"description": "9x9 Low",
+			"fieldSize": 9,
+			"countSmall": 2,
+			"countMedium": 2,
+			"countLarge": 1,
+			"countVeryLarge": 0,
+			"countMines": 3
+		},
+		{
+			"name": "profile-0",
+			"description": "9x9 High",
+			"fieldSize": 9,
+			"countSmall": 5,
+			"countMedium": 4,
+			"countLarge": 3,
+			"countVeryLarge": 2,
+			"countMines": 7
+		},
+		{
+			"name": "profile-3",
+			"description": "9x9 WTF??",
+			"fieldSize": 9,
+			"countSmall": 1,
+			"countMedium": 0,
+			"countLarge": 0,
+			"countVeryLarge": 0,
+			"countMines": 12
+		},
+
+
+
+
+		{
+			"name": "profile-1",
+			"description": "10x10 Medium",
+			"fieldSize": 10,
+			"countSmall": 6,
+			"countMedium": 3,
+			"countLarge": 2,
+			"countVeryLarge": 1,
+			"countMines": 6
+		},
+		{
+			"name": "profile-2",
+			"description": "10x10 Low",
+			"fieldSize": 10,
+			"countSmall": 5,
+			"countMedium": 3,
+			"countLarge": 1,
+			"countVeryLarge": 0,
+			"countMines": 4
+		},
+		{
+			"name": "profile-0",
+			"description": "10x10 High",
+			"fieldSize": 10,
+			"countSmall": 6,
+			"countMedium": 4,
+			"countLarge": 3,
+			"countVeryLarge": 2,
+			"countMines": 8
+		},
+		{
+			"name": "profile-3",
+			"description": "10x10 WTF??",
+			"fieldSize": 10,
+			"countSmall": 1,
+			"countMedium": 0,
+			"countLarge": 0,
+			"countVeryLarge": 0,
+			"countMines": 16
+		},
+
+
+
+
+		{
+			"name": "profile-1",
+			"description": "11x11 Medium",
+			"fieldSize": 11,
+			"countSmall": 7,
+			"countMedium": 4,
+			"countLarge": 2,
+			"countVeryLarge": 2,
+			"countMines": 6
+		},
+		{
+			"name": "profile-2",
+			"description": "11x11 Low",
+			"fieldSize": 11,
+			"countSmall": 5,
+			"countMedium": 3,
+			"countLarge": 1,
+			"countVeryLarge": 0,
+			"countMines": 4
+		},
+		{
+			"name": "profile-0",
+			"description": "11x11 High",
+			"fieldSize": 11,
+			"countSmall": 8,
+			"countMedium": 5,
+			"countLarge": 3,
+			"countVeryLarge": 3,
+			"countMines": 10
+		},
+		{
+			"name": "profile-3",
+			"description": "11x11 WTF??",
+			"fieldSize": 11,
+			"countSmall": 1,
+			"countMedium": 0,
+			"countLarge": 0,
+			"countVeryLarge": 0,
+			"countMines": 18
+		},
+
+
+
+
+		{
+			"name": "profile-1",
+			"description": "12x12 Medium",
+			"fieldSize": 12,
+			"countSmall": 9,
+			"countMedium": 5,
+			"countLarge": 3,
+			"countVeryLarge": 2,
+			"countMines": 11
+		},
+		{
+			"name": "profile-2",
+			"description": "12x12 Low",
+			"fieldSize": 12,
+			"countSmall": 7,
+			"countMedium": 4,
+			"countLarge": 2,
+			"countVeryLarge": 1,
+			"countMines": 8
+		},
+		{
+			"name": "profile-0",
+			"description": "12x12 High",
+			"fieldSize": 12,
+			"countSmall": 11,
+			"countMedium": 7,
+			"countLarge": 3,
+			"countVeryLarge": 3,
+			"countMines": 14
+		},
+		{
+			"name": "profile-3",
+			"description": "12x12 WTF??",
+			"fieldSize": 12,
+			"countSmall": 1,
+			"countMedium": 0,
+			"countLarge": 0,
+			"countVeryLarge": 0,
+			"countMines": 21
+		},
+
+
+
+
+		{
+			"name": "profile-1",
+			"description": "13x13 Medium",
+			"fieldSize": 13,
+			"countSmall": 11,
+			"countMedium": 6,
+			"countLarge": 3,
+			"countVeryLarge": 3,
+			"countMines": 11
+		},
+		{
+			"name": "profile-2",
+			"description": "13x13 Low",
+			"fieldSize": 13,
+			"countSmall": 9,
+			"countMedium": 4,
+			"countLarge": 2,
+			"countVeryLarge": 2,
+			"countMines": 8
+		},
+		{
+			"name": "profile-0",
+			"description": "13x13 High",
+			"fieldSize": 13,
+			"countSmall": 14,
+			"countMedium": 7,
+			"countLarge": 4,
+			"countVeryLarge": 3,
+			"countMines": 14
+		},
+		{
+			"name": "profile-3",
+			"description": "13x13 WTF??",
+			"fieldSize": 13,
+			"countSmall": 1,
+			"countMedium": 0,
+			"countLarge": 0,
+			"countVeryLarge": 0,
+			"countMines": 24
+		},
+
+
+
+
+		{
+			"name": "profile-1",
+			"description": "14x14 Medium",
+			"fieldSize": 14,
+			"countSmall": 15,
+			"countMedium": 7,
+			"countLarge": 4,
+			"countVeryLarge": 3,
+			"countMines": 13
+		},
+		{
+			"name": "profile-2",
+			"description": "14x14 Low",
+			"fieldSize": 14,
+			"countSmall": 10,
+			"countMedium": 4,
+			"countLarge": 3,
+			"countVeryLarge": 2,
+			"countMines": 10
+		},
+		{
+			"name": "profile-0",
+			"description": "14x14 High",
+			"fieldSize": 14,
+			"countSmall": 16,
+			"countMedium": 8,
+			"countLarge": 4,
+			"countVeryLarge": 4,
+			"countMines": 18
+		},
+		{
+			"name": "profile-3",
+			"description": "14x14 WTF??",
+			"fieldSize": 14,
+			"countSmall": 1,
+			"countMedium": 0,
+			"countLarge": 0,
+			"countVeryLarge": 0,
+			"countMines": 29
+		},
+
+
+
+		
+		{
+			"name": "profile-1",
+			"description": "15x15 Medium",
+			"fieldSize": 15,
+			"countSmall": 18,
+			"countMedium": 7,
+			"countLarge": 4,
+			"countVeryLarge": 3,
+			"countMines": 16
+		},
+		{
+			"name": "profile-2",
+			"description": "15x15 Low",
+			"fieldSize": 15,
+			"countSmall": 13,
+			"countMedium": 5,
+			"countLarge": 3,
+			"countVeryLarge": 3,
+			"countMines": 10
+		},
+		{
+			"name": "profile-0",
+			"description": "15x15 High",
+			"fieldSize": 15,
+			"countSmall": 19,
+			"countMedium": 9,
+			"countLarge": 5,
+			"countVeryLarge": 4,
+			"countMines": 25
+		},
+		{
+			"name": "profile-3",
+			"description": "15x15 WTF??",
+			"fieldSize": 15,
+			"countSmall": 1,
+			"countMedium": 0,
+			"countLarge": 0,
+			"countVeryLarge": 0,
+			"countMines": 36
+		}
+	] 
+}

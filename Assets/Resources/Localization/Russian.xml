@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization language="Russian">
+  <Common>
+    <String name="App Name" value="Морской бой" />
+
+    <String name="English" value="Английский" />
+    <String name="Russian" value="Русский" />
+  </Common>
+  <Welcome>
+    <String name="New Single Player" value="Новая игра" />
+    <String name="Multiplayer" value="Игра по сети" />
+    <String name="Quit Message" value="Нажмите ещё раз, чтобы выйти" />
+  </Welcome>
+  <MultiplayerWelcome>
+    <String name="Title" value="Игра по сети" />
+    <String name="Back" value="Назад" />
+    <String name="Create Public Room" value="Открытая игра" />
+    <String name="Create Private Room" value="Скрытая игра" />
+    <String name="Join Public Room" value="К открытой игре" />
+    <String name="Join Private Room" value="К скрытой игре" />
+    <String name="Connecting" value="Соединение с сервером" />
+    <String name="New Game" value="Новая игра" />
+    <String name="Join Game" value="Присоединиться" />
+  </MultiplayerWelcome>
+  <JoinPublicRoom>
+    <String name="Title" value="Вход в игру" />
+    <String name="Join" value="Присоединиться" />
+  </JoinPublicRoom>
+  <JoinPrivateRoom>
+    <String name="Title" value="Скрытая игра" />
+    <String name="Join" value="Присоединиться" />
+    <String name="Enter Room ID" value="Введите номер комнаты" />
+    <String name="Room Does Not Exist" value="Не удаётся найти комнату %s" />
+  </JoinPrivateRoom>
+  <Room>
+    <String name="Title" value="Игровая комната" />
+    <String name="Room ID Is" value="Номер комнаты" />
+    <String name="Copy To Clipboard" value="Скопировать" />
+    <String name="Wait Message" value="Игра начнётся автоматически, как только оппонент вступит в комнату" />
+    <String name="Back" value="Покинуть комнату" />
+    <String name="ID Copied" value="Номер комнаты скопирован в буфер обмена" />
+    <String name="Private Room Hint" value="Это скрытая комната. Вы должны сообщить противнику номер комнаты, чтобы он смог вступить." />
+  </Room>
+  <Networking>
+    <String name="Opponent Left The Room" value="Противник вышел из игры" />
+    <String name="Join Room Failed" value="Не удалось вступить в игровую комнату" />
+    <String name="Create Room Failed" value="Не удалось создать игровую комнату" />
+    <String name="Room Is Full" value="Кто-то уже вступил в эту игровую комнату" />
+    <String name="Room Does Not Exist" value="Игровая комната уже не существует" />
+    <String name="Max Online Players Reached" value="Сервер переполнен, попробуйте позже" />
+    <String name="Network Error" value="Не удалось подключиться к интернету" />
+    <String name="Multiplayer Game Cannot Continue" value="Потеряна связь с интернетом. Сетевая игра прервана." />
+  </Networking>
+  <MessageBox>
+    <String name="OK" value="OK" />
+    <String name="Cancel" value="Отмена" />
+    <String name="Retry" value="Повтор" />
+  </MessageBox>
+  <Rules>
+    <String name="Title" value="Правила" />
+    <String name="Next" value="Далее" />
+    <String name="Field Size" value="Размер поля" />
+    <String name="Shape" value="Форма" />
+    <String name="Shape-Straight" value="Прямые" />
+    <String name="Shape-Any" value="Любая форма" />
+    <String name="Density" value="Плотность" />
+    <String name="Density-Single" value="Щ_щ??" />
+    <String name="Density-Low" value="Низкая" />
+    <String name="Density-Medium" value="Средняя" />
+    <String name="Density-High" value="Высокая" />
+    <String name="Allow Mines" value="Использовать мины" />
+    <String name="Allow SpyGlass" value="Использовать шпионаж" />
+    <String name="Extra Turn" value="Дополнительный ход после успешной атаки" />
+  </Rules>
+  <Arrangement>
+  	<String name="Title" value="Расстановка" />
+  	<String name="Next Ship" value="Следующий" />
+  	<String name="Auto Arrange" value="Авто-расстановка" />
+  	<String name="Back" value="Назад" />
+  	<String name="Start Game" value="Начать игру" />
+  </Arrangement>
+  <Battlefield>
+  	<String name="My Field" value="Моё поле" />
+  	<String name="Opponent Field" value="Противник" />
+  	<String name="To Opponent" value="Противник" />
+  	<String name="To My Field" value="Моё поле" />
+  	<String name="Exit" value="Выйти" />
+  	<String name="SpyGlass Hint" value="Коснитесь клетки противника, чтобы начать сканирование" />
+  	<String name="Use SpyGlass" value="Шпионить" />
+  	<String name="Your Turn" value="Ваш ход" />
+  	<String name="Opponent Turn" value="Ожидание хода противника" />
+    <String name="Ships Destroyed" value="Уничтожено кораблей: %m из %n" />
+    <String name="Exit Battle Prompt" value="Вы действительно хотите покинуть поле боя?" />
+  </Battlefield>
+  <GameOver>
+  	<String name="You Win" value="Вы выиграли!" />
+  	<String name="Opponent Wins" value="Противник выиграл." />
+  	<String name="Play Again" value="Играть снова" />
+  	<String name="Exit" value="Выйти" />
+  </GameOver>
+  <Settings>
+  	<String name="Title" value="Настройки" />
+  	<String name="Back" value="Назад" />
+  	<String name="Language" value="Язык" />
+  	<String name="Skin" value="Внешний вид" />
+  	<String name="Cell Animation" value="Анимация ячейки" />
+    <String name="Orientation" value="Ориентация" />
+  	<String name="Auto Scroll" value="Автопрокрутка после каждого хода" />
+    <String name="Paper Effect" value="Эффект бумаги" />
+  </Settings>
+  <PaperEffects>
+    <String name="NoEffect" value="Выключить" />
+    <String name="FullEffect" value="Везде" />
+    <String name="PartialEffect" value="Частично" />
+  </PaperEffects>
+  <About>
+    <String name="Title" value="О программе" />
+    <String name="Back" value="Назад" />
+    <String name="Author" value="Автор (дизайн и код)" />
+    <String name="Name" value="Вадим Александрович Громов" />
+    <String name="Version" value="Версия" />
+    <String name="Made With Unity" value="Сделано на Unity" />
+    <String name="And Krita" value="и Krita" />
+  </About>
+  <Skins>
+  	<String name="default" value="По умолчанию" />
+    <String name="dark" value="Тёмный" />
+  </Skins>
+  <Animations>
+  	<String name="None" value="Без анимации" />
+  	<String name="Flip" value="Поворот" />
+  	<String name="Wave" value="Волна" />
+  </Animations>
+  <Orientations>
+    <String name="Portrait" value="Книжная" />
+    <String name="Landscape" value="Альбомная" />
+  </Orientations>
+  <Field>
+  	<String name="0" value="А" />
+  	<String name="1" value="Б" />
+  	<String name="2" value="В" />
+  	<String name="3" value="Г" />
+  	<String name="4" value="Д" />
+  	<String name="5" value="Е" />
+  	<String name="6" value="Ж" />
+  	<String name="7" value="З" />
+  	<String name="8" value="И" />
+  	<String name="9" value="К" />
+  	<String name="10" value="Л" />
+  	<String name="11" value="М" />
+  	<String name="12" value="Н" />
+  	<String name="13" value="О" />
+  	<String name="14" value="П" />
+  </Field>
+</Localization>
